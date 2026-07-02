@@ -1,2 +1,2 @@
-name = "pari"
-print("name is", name)
+first_name = "pari"
+print("name is", first_name)
