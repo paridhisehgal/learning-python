@@ -1,6 +1,3 @@
-from webbrowser import Konqueror
-
-
 secret_word = "Clock it"
 guess = " "
 guess_count = 0
