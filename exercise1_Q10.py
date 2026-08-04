@@ -3,8 +3,6 @@ num = int(input("enter a positive number: "))
 
 while num < 0:
     num = int(input("enter a positive number: "))
-    
-
 
 result1 =int(sqrt (num))
 result2 = int(num ** 2)
