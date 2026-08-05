@@ -1,0 +1,6 @@
+numbers = list(range(1,21))
+print (numbers)
+print ("The first 5 elements in list are -> ", numbers[:5])
+print ("The last 5 elements in list are -> ", numbers[15:20])
+print("The elements at even-indexed positon -> ",numbers[::2])
+print("The reverse order for the elements in list -> ",numbers[::-1])
