@@ -1,0 +1,5 @@
+num1 = float(input("Enter your 1st number -> "))
+num2 = float(input("Enter your second number -> "))
+result = abs (num1 - num2 )
+print ("\nThe numbers entered:","\n↪️",num1,"\n↪️",num2)
+print("\nThe absolute difference between both numbers:""\n","↪️",result)
