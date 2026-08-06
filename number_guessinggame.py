@@ -1,3 +1,6 @@
+print("\nTHIS IS A FUN NUMBER GUESSING GAME!!")
+begin = input ("\nEnter start to begin the game ->")
+
 secret_num = 7
 attempts = 0
 
