@@ -19,7 +19,7 @@ while True:
         print(item, "successfully removed from the list!")
      
     elif user_input == "c":
-        print("shopping list:", shopping_list)
+        print("shopping alist:", shopping_list)
 
     elif user_input == "d":
         print("Happy shopping, goodbye!")
